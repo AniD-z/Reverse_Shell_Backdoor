@@ -1,4 +1,4 @@
-#Purple Hat Project — Home Lab Exploitation & Monitoring
+Home Lab Exploitation & Monitoring
 
 This is a hands-on cybersecurity project simulating real-world red team tactics and defensive monitoring in a controlled lab environment. It was designed to improve offensive security skills and build out a full kill chain with detection and logging.
 
